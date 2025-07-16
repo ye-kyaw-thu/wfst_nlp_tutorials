@@ -5,7 +5,8 @@ This repository contains materials from a 5-hour WFST tutorial I delivered to LU
 
 1.[WFST_Word_Segmentation.ipynb](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/fst_decoder/WFST_Word_Segmentation.ipynb)  
 2.[WFST_POS_Tagging.ipynb](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/wfst_pos/WFST_POS_Tagging.ipynb)  
-3.[WFST_MT.ipynb](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/wfst_mt/my-rk/WFST_MT.ipynb)  
+3.[WFST_MT.ipynb](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/wfst_mt/my-rk/WFST_MT.ipynb)
+4.[WFST_Word_Segmentation_Small_Corpus.ipynb](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/visualization/tiny_ws/WFST_Word_Segmentation_Small_Corpus.ipynb)
 
 ## License  
 
