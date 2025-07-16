@@ -7,6 +7,6 @@ The Bash shell scripts, Python code, and Jupyter notebooks in this WFST-NLP tuto
 
 However, the datasets used in these tutorials follow their original licenses:  
 
-- **Word Segmentation & POS Tagging Tutorial**: Uses [myPOS (Version 3.0)](LINK_IF_AVAILABLE), licensed as per its original source.  
+- **Word Segmentation & POS Tagging Tutorial**: Uses [myPOS (Version 3.0)](https://github.com/ye-kyaw-thu/myPOS), licensed as per its original source.  
 - **Machine Translation Tutorial**: Uses the **Myanmar-Rakhine Parallel Corpus** (full version not yet publicly released).  
   - For research purposes, I’ve included **aligned phrase pairs** (Myanmar-Rakhine) generated using the `anymalign` alignment toolkit.  
