@@ -1,0 +1,13 @@
+input_format: text
+output_format: text
+nbest: 1
+input_symbols: ./data/char.sym
+output_symbols: ./data/word.sym
+unknown_symbol: <unk>
+terminal_symbol: </s>
+models:
+  - type: plain
+    file: ./lexicon_final.fst
+    input_symbols: ./data/char.sym
+    output_symbols: ./data/word.sym
+    weights: [1.0]
