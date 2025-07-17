@@ -1,4 +1,6 @@
 """
+Written by Ye Kyaw Thu, LU Lab., Myanmar.
+Last updated: 11 July 2025
 Usage:
     python ./script/evaluate_segmentation.py --ref data/otest.nopipe.word --hyp open_test.hyp --top-k 10 > open_tesst_score.txt
     python ./script/evaluate_segmentation.py --ref data/ctest10.nopipe.word --hyp closed_test.hyp --top-k 10 > closed_test_score.txt
