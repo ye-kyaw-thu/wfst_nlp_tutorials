@@ -1,9 +1,3 @@
-"""
-preparing word<TAB>tag format file, word and tag symbol files 
-written by Ye Kyaw Thu, LU Lab., Myanmar
-last updated: 10 July 2025
-"""
-
 import sys
 from collections import defaultdict
 
@@ -35,6 +29,7 @@ def preprocess_corpus(input_file, output_pairs, words_file, pos_tags_file):
     # Write vocabulary files
     with open(words_file, 'w', encoding='utf-8') as f:
         f.write("<eps>\t0\n")  # OpenFST requires <eps> as first symbol
+        f.write("<unk>\t1\n")  # OpenFST requires <eps> as first symbol
         for idx, word in enumerate(sorted(word_counts.keys()), 1):
             f.write(f"{word}\t{idx}\n")
 

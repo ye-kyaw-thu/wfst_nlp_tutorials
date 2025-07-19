@@ -1,9 +1,3 @@
-"""
-# input စာကြောင်းတစ်ကြောင်းစီအတွက် fst format ပြောင်းဖို့နဲ့ symbol ဖိုင်ထုတ်ဖို့ရေးခဲ့တယ်။
-# Written by Ye Kyaw Thu, LU Lab., Myanmar
-# Last updated: 11 July 2025
-"""
-
 import sys
 
 def load_symbols(sym_file):
