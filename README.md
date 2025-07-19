@@ -22,4 +22,21 @@ However, the datasets used in these tutorials follow their original licenses:
 
 - **Word Segmentation & POS Tagging Tutorial**: Uses [myPOS (Version 3.0)](https://github.com/ye-kyaw-thu/myPOS), licensed as per its original source.  
 - **Machine Translation Tutorial**: Uses the **Myanmar-Rakhine Parallel Corpus** (full version not yet publicly released).  
-  - For research purposes, I’ve included **aligned phrase pairs** (Myanmar-Rakhine) generated using the `anymalign` alignment toolkit.  
+  - For research purposes, I’ve included **aligned phrase pairs** (Myanmar-Rakhine) generated using the `anymalign` alignment toolkit.
+ 
+## Citation  
+
+If you have used Jupyter Notebooks for teaching or R&D, please cite them as follows:   
+(wfst_nlp_tutorials ကို သုံးဖြစ်ကြရင် အောက်ပါ citation လုပ်ပေးပါ။ ကျေးဇူးပါ။)    
+
+```
+@misc{wfst_nlp_tutorials_2025,
+  author       = {Ye Kyaw Thu},
+  title        = {wfst_nlp_tutorials},
+  month        = {7},
+  year         = {2025},
+  url          = {https://github.com/ye-kyaw-thu/wfst_nlp_tutorials},
+  note         = {Accessed Date: yyyy-mm-dd},
+  institution  = {LU Lab., Myanmar}
+}
+```
