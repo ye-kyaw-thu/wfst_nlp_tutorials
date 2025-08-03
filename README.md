@@ -3,7 +3,8 @@ This repository contains materials from a 5-hour WFST tutorial I delivered to LU
 
 ## Lecture Slide  
 
-- Finite State Machines for NLP, UTYCC NLP Class, 2019, Ye Kyaw Thu, [https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/11-fsm4nlp.pdf](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/11-fsm4nlp.pdf)  
+- Finite State Machines for NLP, UTYCC NLP Class, 2019, Ye Kyaw Thu, [https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/11-fsm4nlp.pdf](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/11-fsm4nlp.pdf)
+- Invited Lecture@University of Taxila (30 July 2025), [https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/WFST_Talk_at_Taxila_Univ_Myanmar.pdf](https://github.com/ye-kyaw-thu/wfst_nlp_tutorials/blob/main/slide/WFST_Talk_at_Taxila_Univ_Myanmar.pdf)
 
 ## Notebooks
 
